@@ -1,5 +1,5 @@
 import numpy as np
-
+#sales details
 daily_sales=np.array([255,275,385,210,390])
 
 print('average sales;',np.mean(daily_sales))
